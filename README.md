@@ -12,4 +12,4 @@ BG - main application pair is connected by Vita's OS like this:
 
 # How to Build
 
-Use vitasdk to build application. After building, boot params for both executables have to be set manually. Refer to the precompiled version for the values.
+Use vitasdk to build application. After building, boot params for both executables must be set manually. Refer to the precompiled version for the values.
