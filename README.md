@@ -1,6 +1,6 @@
 # BG Application Sample for PS Vita
 
-This sample demonstrates how background applications for PS Vita can be created. 
+This sample demonstrates how background applications for PS Vita can be created.
 
 Use [NoSharedFb plugin](https://github.com/GrapheneCt/NoSharedFb) to bypass framebuffer problems when resuming from LiveArea.
 
@@ -16,4 +16,4 @@ BG - main application pair is connected by Vita's OS like this:
 
 # How to Build
 
-Use vitasdk to build application. After building, boot params for both executables must be set manually. Refer to the precompiled version for the values.
+DolceSDK is required for building because boot params must be set.
